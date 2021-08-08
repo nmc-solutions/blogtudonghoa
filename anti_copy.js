@@ -1,6 +1,5 @@
-
-//Anti Copy and View Source
-  
+//<![CDATA[
+//Anti Copy and View Source 
  var options = {
   enableAlert: true, // Set this false to deactivate alert
   alertText: &quot;Xin lỗi, Blog đã tắt chức năng này !&quot; // Customize this to change alert text
@@ -45,3 +44,4 @@ return false;
 }
 });
 });
+//]]>
